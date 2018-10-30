@@ -10,6 +10,14 @@ body{
 
 
 }
+p{
+
+    margin: 0;
+    padding: 0;
+    font-size: 100px;
+    color: #ffffff;
+    font-family: sans-serif;
+}
 h1{
 
     margin: 0;
